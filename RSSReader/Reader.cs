@@ -23,6 +23,7 @@ namespace RSSReader
     {
         public static string Feeds()
         //finalnie powinien przyjmowac tablice stringow/linkow i z nich sobie pobierac
+//zuooooooooooooooo
         {
             //zostaw moj¹ dupe w spokoju
             // It's a life !! :D
